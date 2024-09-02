@@ -97,10 +97,19 @@ Propostas de estratégias para mitigar os impactos das mudanças climáticas em 
 Este estudo fornecerá uma compreensão mais profunda das mudanças climáticas locais e contribuirá para o desenvolvimento de políticas públicas e estratégias de mitigação em Bauru.
 
 ## Cronograma 📅
-- **Definição do Tema**: 01/09/2024
-- **Análise Exploratória de Dados**: 10/09/2024 a 20/09/2024
-- **Modelagem Preditiva**: 21/09/2024 a 01/10/2024
-- **Conclusão e Relatório Final**: 02/10/2024 a 10/10/2024
+Cronograma
+
+Encontro síncrono - 20/08/2024  
+Entrega A1 Aplicando Conhecimento - 02/09/2024  
+Encontro síncrono 2 - 03/09/2024  
+Encontro síncrono 3 - 17/09/2024  
+Entrega A2 Aplicando Conhecimento - 30/09/2024  
+Encontro síncrono 4 - 01/10/2024  
+Encontro síncrono 5 - 22/10/2024  
+Entrega A3 Aplicando Conhecimento - 28/10/2024  
+Encontro síncrono 6 - 29/10/2024  
+Entrega A4 Aplicando Conhecimento - 25/11/2024  
+
 
 ## Referências 📚
 - Banco de Dados Meteorológicos do INMET (2004-2024)
