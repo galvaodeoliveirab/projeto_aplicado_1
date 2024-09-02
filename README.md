@@ -1,124 +1,99 @@
-# projeto_aplicado_1
-Projeto de Análise Exploratória de Dados 🎓🏡📊
-Estudos de Oportunidades Baseadas no Airbnb Open Data RJ
-Universidade Presbiteriana Mackenzie 🏫✨
+# Projeto de Análise Exploratória de Dados de Temperatura 🌡️📊
+Estudo de Temperaturas na Cidade de Bauru (2004-2024)
+Universidade Presbiteriana Mackenzie 🏫✨  
 Faculdade de Computação e Informática 💻🔍
-Autores:
 
-André Dalle Vedove Canassa – 10415817 ✉️
-Kaymmi Antunes Costa Silva – 10415640 ✉️
-Matheus Gomes – 10408179 ✉️
-Valdo Alvim da Rocha Junior – 10414936 ✉️
-Docente:
+## Autores:
+- Bruno [Seu TIA] ✉️
+- [Nome do Integrante] [TIA] ✉️
+- [Nome do Integrante] [TIA] ✉️
+- [Nome do Integrante] [TIA] ✉️
 
-Prof. Felipe Albino dos Santos 👨‍🏫
+## Docente:
+Prof. [Nome do Professor] 👨‍🏫  
 SÃO PAULO 2024 🗓️
 
-Resumo 📝
-O projeto realizado pela equipe da Universidade Presbiteriana Mackenzie, Faculdade de Computação e Informática, tem como objetivo explorar e analisar os dados relacionados às locações via Airbnb na cidade do Rio de Janeiro e elaborar um modelo de avaliação de preços de aluguel. Utilizamos dados de locações de agosto de 2018 a maio de 2020, obtidos do site Kaggle. A análise exploratória inclui técnicas de visualização e um modelo analítico usando Python e bibliotecas como pandas, numpy, seaborn, matplotlib, plotly.express e sklearn. O projeto visa auxiliar pessoas na precificação de aluguéis com base nas características dos imóveis, fornecendo insights valiosos para proprietários, turistas e stakeholders.
+## Resumo 📝
+O projeto tem como objetivo analisar os dados de temperatura coletados na cidade de Bauru, São Paulo, de 01/01/2004 a 01/01/2024. Utilizaremos técnicas de ciência de dados para explorar padrões climáticos e avaliar mudanças sazonais ao longo do tempo. A análise será realizada utilizando Python e bibliotecas como pandas, numpy, seaborn, matplotlib, entre outras.
 
-Sumário 📚
-Contexto do Estudo
-Descrição da Origem
-Descrição do Dataset
-Objetivos e Metas
-Definições de Modelo Analítico
-5.1 Definição da Linguagem de Programação
-5.2 Análise Exploratória da Base de Dados
-5.3 Tratamento da Base de Dados
-5.4 Bases Teóricas dos Métodos
-5.5 Cálculo da Acurácia
-Resultados
-6.1 Modelagem Preditiva
-6.2 Resultados dos Modelos
-6.3 Insights Extraídos das Análises
-6.4 Soluções
-Conclusão
-Cronograma
-Referências
-Contato dos Componentes do Grupo
-Contexto do Estudo 🌍
-Atualmente, a economia compartilhada tem se destacado como uma força transformadora em diversas áreas, e a indústria de hospedagem não é exceção. Plataformas como o Airbnb têm revolucionado a forma como as pessoas viajam, oferecendo uma ampla gama de opções de hospedagem em destinos ao redor do mundo. No contexto específico da cidade do Rio de Janeiro, um dos principais destinos turísticos do Brasil, o Airbnb desempenha um papel significativo no mercado de locações.
+## Sumário 📚
+1. **Contexto do Estudo**
+2. **Descrição da Origem**
+3. **Descrição do Dataset**
+4. **Objetivos e Metas**
+5. **Definições de Modelo Analítico**
+   - 5.1 Definição da Linguagem de Programação
+   - 5.2 Análise Exploratória da Base de Dados
+   - 5.3 Tratamento da Base de Dados
+   - 5.4 Bases Teóricas dos Métodos
+   - 5.5 Cálculo da Acurácia
+6. **Resultados**
+   - 6.1 Modelagem Preditiva
+   - 6.2 Resultados dos Modelos
+   - 6.3 Insights Extraídos das Análises
+   - 6.4 Soluções
+7. **Conclusão**
+8. **Cronograma**
+9. **Referências**
+10. **Contato dos Componentes do Grupo**
 
-Descrição da Origem 📈
-Os dados utilizados neste projeto foram obtidos a partir do conjunto de dados disponível na plataforma Kaggle, especificamente do conjunto intitulado "Airbnb Rio de Janeiro". Este conjunto de dados é acessível através do link.
+## Contexto do Estudo 🌍
+As mudanças climáticas têm sido um tópico central nas discussões ambientais e políticas. Neste estudo, exploramos como as temperaturas em Bauru, uma cidade representativa do interior de São Paulo, têm variado nos últimos 20 anos.
 
-Descrição do Dataset 📊
-Este conjunto de dados é composto pela união de todos os arquivos "listings.csv.gz" provenientes dessa fonte específica, abrangendo informações detalhadas sobre as propriedades disponíveis para locação no Rio de Janeiro durante o período de agosto de 2018 a maio de 2020. Composto por 96 colunas, esse conjunto de dados oferece uma ampla variedade de informações sobre as listagens de propriedades, incluindo características físicas, preços de locação, disponibilidade de datas, comodidades oferecidas e avaliações dos hóspedes.
+## Descrição da Origem 📈
+Os dados foram obtidos a partir de medições realizadas por estações meteorológicas na cidade de Bauru e estão disponíveis para uso acadêmico.
 
-Objetivos e Metas 🎯
-O projeto tem como objetivo coletar, limpar e analisar dados disponíveis publicamente do Airbnb utilizando técnicas de ciência de dados e visualização de dados para extrair insights significativos. Aplicaremos técnicas de aprendizagem de máquina e modelos estatísticos preditivos para elaborar um modelo que auxiliará na precificação dos valores cobrados de aluguel.
+## Descrição do Dataset 📊
+O dataset contém registros diários de temperatura, incluindo temperatura máxima, mínima e média, além de outros indicadores climáticos coletados entre 2004 e 2024.
 
-Definições de Modelo Analítico 🔍
-Definição da Linguagem de Programação 🐍
-A linguagem de programação escolhida para este projeto é Python, utilizando bibliotecas como pandas, pathlib, numpy, seaborn, matplotlib, plotly.express e sklearn.
+## Objetivos e Metas 🎯
+O objetivo principal é realizar uma análise detalhada das variações de temperatura em Bauru e identificar possíveis tendências ao longo dos anos, utilizando métodos estatísticos e de aprendizado de máquina.
 
-Análise Exploratória da Base de Dados 📈
-Utilizamos técnicas de visualização, como histogramas, gráficos de barras, heatmap de correlação e boxplots, para entender a distribuição dos dados, identificar padrões, relações entre variáveis e outliers.
+## Definições de Modelo Analítico 🔍
+### Definição da Linguagem de Programação 🐍
+Python foi escolhido para este projeto devido à sua versatilidade e às bibliotecas disponíveis para análise de dados.
 
-Tratamento da Base de Dados 🛠️
-As etapas de tratamento incluíram a correção do tipo de dado, identificação e remoção de dados nulos, eliminação de colunas com baixa significância estatística e tratamento de outliers.
+### Análise Exploratória da Base de Dados 📈
+Técnicas como histogramas e boxplots serão utilizadas para entender a distribuição dos dados e identificar padrões.
 
-Bases Teóricas dos Métodos 📘
-Utilizamos métodos de ciência de dados, incluindo técnicas de visualização e modelagem preditiva. Os modelos selecionados foram: Regressão Linear, Extra-Trees, Random Forest e Gradient Boosting.
+### Tratamento da Base de Dados 🛠️
+Será realizada a limpeza dos dados, incluindo a remoção de outliers e o preenchimento de valores ausentes.
 
-Cálculo da Acurácia 📏
-A acurácia dos modelos foi avaliada utilizando métricas como o coeficiente de determinação (R²) e a raiz quadrática média (RSME).
+### Bases Teóricas dos Métodos 📘
+Utilizaremos métodos estatísticos e de aprendizado de máquina, como regressão linear e análise de clusters, para analisar os dados.
 
-Resultados 🏆
-Modelagem Preditiva 🔮
-Após o tratamento da base de dados, aplicamos quatro modelos de machine learning para prever os preços de aluguel das propriedades listadas no Airbnb no Rio de Janeiro: Regressão Linear, Extra-Trees, Random Forest e Gradient Boosting.
+### Cálculo da Acurácia 📏
+A acurácia dos modelos será avaliada utilizando métricas como o coeficiente de determinação (R²) e o erro quadrático médio (MSE).
 
-Resultados dos Modelos 📊
-Os resultados obtidos foram:
+## Resultados 🏆
+### Modelagem Preditiva 🔮
+Após o tratamento dos dados, aplicaremos modelos para prever tendências futuras nas temperaturas de Bauru.
 
-Regressão Linear: R²: 32,99%, RSME: 214,85
-Extra-Trees: R²: 97,44%, RSME: 42,00
-Random Forest: R²: 97,20%, RSME: 41,89
-Gradient Boosting: R²: 42,11%, RSME: 199,69
-Insights Extraídos das Análises 💡
-A maioria dos imóveis está na faixa de preços de 0 a 400 reais.
-Proprietários com múltiplos imóveis são raros.
-Imóveis com mais cômodos tendem a ser mais caros.
-Áreas mais caras estão concentradas em regiões específicas da cidade.
-Anfitriões superhost e com mais comodidades podem cobrar mais.
-Soluções 🛠️
-Implementar o modelo de previsão de preços para ajudar os proprietários a precificar seus imóveis de forma competitiva.
-Explorar a sazonalidade e o impacto de eventos locais nos preços para aprimorar a precisão das previsões.
-Identificar novas áreas com potencial de crescimento para investimento.
-Implementar técnicas de dynamic pricing para ajustar o preço em tempo real com base na demanda e nas condições de mercado.
-Conclusão 📌
-As análises revelaram que o preço dos imóveis no Airbnb é fortemente influenciado por fatores como o número de quartos, localização, comodidades oferecidas e a reputação do anfitrião. O modelo ExtraTrees mostrou-se eficiente na previsão de preços dos imóveis do Airbnb no Rio de Janeiro, com R² de 97,44%.
+### Resultados dos Modelos 📊
+Os resultados serão comparados para determinar o modelo mais eficiente na previsão de temperaturas.
 
-Cronograma 📅
-Atividade	Data
-Criação do Grupo	24/02/2024
-Definição do Tema	26/02 a 05/03
-Criação do Documento da Entrega 1	06/03/2024
-ENTREGA DA ETAPA 1	11/03/2024
-Análise Exploratória de Dados	26/03 a 01/04
-Criação do Documento da Entrega 2	03/04/2024
-ENTREGA DA ETAPA 2	09/04/2024
-Elaboração da Proposta Analítica	22/04 a 26/04
-Criação do Documento da Entrega 3	28/04/2024
-ENTREGA DA ETAPA 3	30/04/2024
-Elaboração da Análise Preditiva	02/05 a 09/05
-Criação do Documento da Entrega 4	11/05/2024
-ENTREGA DA ETAPA 4	14/05/2024
-Criação do Relatório Final	14/05 a 19/05
-ENTREGA DO RELATÓRIO FINAL	20/05/2024
-Referências 📚
-Airbnb Open Data
+### Insights Extraídos das Análises 💡
+Exploração dos padrões sazonais e como eventos climáticos extremos têm afetado as temperaturas ao longo dos anos.
 
-Visualizações com Plotly
+### Soluções 🛠️
+Propostas de estratégias para mitigar os efeitos das mudanças climáticas na região.
 
-Machine Learning com Sklearn
+## Conclusão 📌
+O estudo fornecerá uma compreensão mais profunda das mudanças climáticas locais e contribuirá para o desenvolvimento de políticas públicas informadas.
 
-Acesso ao vídeo da apresentação do projeto no Youtube
+## Cronograma 📅
+- **Definição do Tema**: 01/09/2024
+- **Análise Exploratória de Dados**: 10/09/2024 a 20/09/2024
+- **Modelagem Preditiva**: 21/09/2024 a 01/10/2024
+- **Conclusão e Relatório Final**: 02/10/2024 a 10/10/2024
 
-Contato dos Componentes do Grupo 📬
-André Dalle Vedove Canassa - TIA: 10415817 - E-mail: andredalle@gmail.com
-Kaymmi Antunes Costa Silva - TIA: 10415640 - E-mail: kaymmiacs@gmail.com
-Matheus Gomes - TIA: 10408179 - E-mail: matheuscsgomes7@gmail.com
-Valdo Alvim da Rocha Junior - TIA: 10414936 - E-mail: valdoarj@gmail.com
-Este é o documento detalhado para o trabalho da equipe na análise de dados do Airbnb no Rio de Janeiro, com enfoque no desenvolvimento de um modelo preditivo de preços.
+## Referências 📚
+- Dados Meteorológicos de Bauru (2004-2024)
+- Documentação das Bibliotecas Utilizadas
+
+## Contato dos Componentes do Grupo 📬
+- Bruno [seu e-mail]
+- [Nome do Integrante] [e-mail]
+- [Nome do Integrante] [e-mail]
+- [Nome do Integrante] [e-mail]
+
