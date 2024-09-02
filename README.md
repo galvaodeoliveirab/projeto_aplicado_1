@@ -1,16 +1,13 @@
-# Projeto de Análise Exploratória de Dados de Temperatura 🌡️📊  
+# Projeto de Análise Exploratória de Dados 🌡️📊  
 Estudo de Temperaturas na Cidade de Bauru (2004-2024)  
 Universidade Presbiteriana Mackenzie 🏫✨  
 Faculdade de Computação e Informática 💻🔍
 
 ## Autores:
-- Bruno [Seu TIA] ✉️
-- [Nome do Integrante] [TIA] ✉️
-- [Nome do Integrante] [TIA] ✉️
-- [Nome do Integrante] [TIA] ✉️
+
 
 ## Docente:
-Prof. [Nome do Professor] 👨‍🏫  
+Prof. 👨‍🏫  
 SÃO PAULO 2024 🗓️
 
 ## Resumo 📝
@@ -100,9 +97,5 @@ Este estudo fornecerá uma compreensão mais profunda das mudanças climáticas 
 - Documentação das Bibliotecas Utilizadas
 
 ## Contato dos Componentes do Grupo 📬
-- Bruno [seu e-mail]
-- [Nome do Integrante] [e-mail]
-- [Nome do Integrante] [e-mail]
-- [Nome do Integrante] [e-mail]
 
 
