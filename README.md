@@ -16,7 +16,8 @@ Faculdade de Computação e Informática 💻🔍
 
 
 ## Docente:
-Prof. 👨‍🏫  
+Prof. Thiago Graziani Traue  👨‍🏫
+Prof. Vinicius Piro Barragam 👨‍🏫  
 SÃO PAULO 2024 🗓️
 
 ## Resumo 📝
