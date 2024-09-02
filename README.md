@@ -1,3 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6666&height=120&section=header" width="100%" align="center">
+
+<img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" width="100%" align="center">
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Projeto de Análise Exploratória de Dados 🌡️📊  
 Estudo de Temperaturas na Cidade de Bauru (2004-2024)  
 Universidade Presbiteriana Mackenzie 🏫✨  
@@ -97,5 +106,8 @@ Este estudo fornecerá uma compreensão mais profunda das mudanças climáticas 
 - Documentação das Bibliotecas Utilizadas
 
 ## Contato dos Componentes do Grupo 📬
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6666&height=120&section=footer" width="100%" align="center">
+
 
 
