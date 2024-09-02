@@ -13,6 +13,17 @@ Universidade Presbiteriana Mackenzie 🏫✨
 Faculdade de Computação e Informática 💻🔍
 
 ## Autores:
+Bruno Galvão de Oliveira Lima 
+TIA: 10441285
+
+Vitória Ferreira Corrêa 
+TIA: 10441482
+
+Lucas Santos Borba de Araujo
+TIA: 10176256
+
+Victor Martins Oliveira 
+TIA: 10433534
 
 
 ## Docente:
@@ -77,8 +88,6 @@ O tratamento dos dados incluirá a limpeza dos mesmos, remoção de outliers e p
 ### Bases Teóricas dos Métodos 📘
 Métodos estatísticos e de aprendizado de máquina serão aplicados, incluindo regressão linear e análise de clusters, para explorar e modelar os dados climáticos.
 
-### Cálculo da Acurácia 📏
-A acurácia dos modelos será avaliada utilizando métricas como o coeficiente de determinação (R²) e o erro quadrático médio (MSE).
 
 ## Resultados 🏆
 ### Modelagem Preditiva 🔮
@@ -116,6 +125,25 @@ Entrega A4 Aplicando Conhecimento - 25/11/2024
 - Documentação das Bibliotecas Utilizadas
 
 ## Contato dos Componentes do Grupo 📬
+
+Bruno Galvão de Oliveira Lima 
+TIA: 10441285
+Email : 10441285@mackenzista.com.br
+
+Vitória Ferreira Corrêa 
+TIA: 10441482
+Email: 10441482@mackenzista.com.br
+
+Lucas Santos Borba de Araujo
+TIA: 10176256
+Email: 10176256@mackenzista.com.br
+
+Victor Martins Oliveira 
+TIA: 10433534
+Email: 10433534@mackenzista.com.br
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6666&height=120&section=footer" width="100%" align="center">
 
