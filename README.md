@@ -31,6 +31,9 @@ Prof. Thiago Graziani Traue  👨‍🏫
 Prof. Vinicius Piro Barragam 👨‍🏫  
 SÃO PAULO 2024 🗓️
 
+## Link da apresentação:
+https://youtu.be/gn-XIOldEcI
+
 ## Resumo 📝
 Este projeto tem como objetivo analisar os dados meteorológicos da cidade de Bauru, São Paulo, no período de 01/01/2004 a 01/01/2024. Utilizaremos técnicas de ciência de dados para explorar mudanças climáticas e transformações ambientais, com foco na identificação de tendências relacionadas ao aquecimento global. Os dados, obtidos do INMET, incluem informações sobre temperatura, precipitação, pressão atmosférica, umidade relativa, e vento.
 
